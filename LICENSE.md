@@ -1,4 +1,4 @@
-# 
+# Native ftx trading bot templates for Mac OS | Updated ftx trading bot templates for PC Windows. Featuring market making and custom dashboards — optimized for maximum performance on every platform.
 
 
 
